@@ -1,5 +1,4 @@
 # Console-Based-Student-Management-System
-Project based on JDBC and MySQL
 ### Java | JDBC | MySQL | Console Application
 
 A **menu-driven Employee Management System** developed using **Java and JDBC**, with **MySQL** as the backend database.  
